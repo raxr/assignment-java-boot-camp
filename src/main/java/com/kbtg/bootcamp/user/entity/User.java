@@ -1,4 +1,4 @@
-package com.kbtg.bootcamp.user.domain;
+package com.kbtg.bootcamp.user.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
